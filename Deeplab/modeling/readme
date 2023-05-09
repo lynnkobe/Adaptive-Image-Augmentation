@@ -1,0 +1,3 @@
+本文件夹是构建deeplab-v3+模型所需的模型基础
+注：
+1、backbone采用mobilenet
